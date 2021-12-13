@@ -48,7 +48,7 @@ main a:hover {
 }
 
 /* 1.6v Verander de achtergrond van de SignUp button. Tip: https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors  */
-input [type="submit"] {
+.buttoncolor {
     background-color: red;
 }
 

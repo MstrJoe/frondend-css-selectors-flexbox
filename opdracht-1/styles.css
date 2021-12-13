@@ -48,13 +48,12 @@ main a:hover {
 }
 
 /* 1.6v Verander de achtergrond van de SignUp button. Tip: https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors  */
-input[type="submit"]{
-    background: red;
+input [type="submit"] {
+    background-color: red;
 }
 
-
 /* 1.7v Geef het tekst-veld een blauwe rand wanneer hij in focus is */
-input[type="text"] {
+input [type="text"] {
     outline-color: dodgerblue;
 }
 
